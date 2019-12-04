@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**If you want to be a perfect *unicorn***  :unicorn: 
+
+*Listen* to my fabolous advices :rainbow:
+
+Now go get some **grapes** :grapes: and **cherries** :cherries: and wait for the beautiful **boar** :boar:
